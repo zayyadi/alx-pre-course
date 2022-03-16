@@ -1,0 +1,5 @@
+git add .
+git commit -m <message>
+git push
+git cheeckout -b <branch name> #to create and switch branch
+
